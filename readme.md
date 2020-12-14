@@ -7,7 +7,7 @@
 
 * This is just a model and it is an adaptation of one exercise of School of Net
 
-* It still needs compaction and improvements.
+* It still needs to be compacted and improved.
 
 ____
 
