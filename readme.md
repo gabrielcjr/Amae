@@ -6,8 +6,8 @@
 
 
 * This is just a model and it is an adaptation of one exercise of School of Net
-
 * It still needs to be compacted and improved.
+* Link https://gacarneirojr.github.io/Amae/
 
 ____
 
@@ -20,3 +20,4 @@ ____
 
 * Este modelo é uma adaptação do exercício feito na School of Net
 * Ainda carece de compactação e melhorias, pois ainda tem arquivos e códigos que precisam de compactação.
+* Click em https://gacarneirojr.github.io/Amae/
